@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetPrintsUnitTests", "NetPrintsUnitTests\NetPrintsUnitTests.csproj", "{722EABBB-83E6-4CB0-8DE2-BAF76AEC09B8}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetPrintsCLI", "NetPrintsCLI\NetPrintsCLI.csproj", "{503AE5F1-C60F-41BC-BC1D-4B3036FD2641}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,10 @@ Global
 		{722EABBB-83E6-4CB0-8DE2-BAF76AEC09B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{722EABBB-83E6-4CB0-8DE2-BAF76AEC09B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{722EABBB-83E6-4CB0-8DE2-BAF76AEC09B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{503AE5F1-C60F-41BC-BC1D-4B3036FD2641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{503AE5F1-C60F-41BC-BC1D-4B3036FD2641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{503AE5F1-C60F-41BC-BC1D-4B3036FD2641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{503AE5F1-C60F-41BC-BC1D-4B3036FD2641}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
